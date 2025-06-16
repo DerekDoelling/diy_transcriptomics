@@ -50,6 +50,7 @@ Users on bioinformatics forums often praise the course’s clarity and accessibi
 
 ### Maintained by Credible Scientists
 ![image](https://github.com/user-attachments/assets/aa14f0b8-956a-4cae-80d9-e4a47bf62fe7)
+
 The content is crafted and maintained by a trio of Ph.D.-trained scientists dedicated to making advanced RNA-seq analysis accessible to everyone.
 
 ## Summary
